@@ -1,5 +1,5 @@
 🎵 Music Website
-A simple, responsive music website built using HTML and CSS. This project showcases a clean and modern design, providing users with an intuitive interface to explore various music genres and artists.
+A simple, responsive music website built using HTML,CSS and JAVA SCRIPT. This project showcases a clean and modern design, providing users with an intuitive interface to explore various music genres and artists.
 
 🌟 Features
 Responsive Design: Optimized for desktop, tablet, and mobile devices.
